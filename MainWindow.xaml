@@ -3,9 +3,8 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:w10mu"
         mc:Ignorable="d"
-        Title="Windows 10 Manual Update" Height="403.948" Width="411.842">
+        Title="Windows 10 Manual Update" Height="404" Width="412" MinWidth="412" MinHeight="404">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>
